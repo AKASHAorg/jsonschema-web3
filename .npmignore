@@ -1,0 +1,12 @@
+*.ts
+!*.d.ts
+.idea
+coverage
+tests
+tsconfig.json
+tslint.json
+typings.json
+bin
+docs
+*.map
+*.logs

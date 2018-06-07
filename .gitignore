@@ -59,3 +59,14 @@ typings/
 
 # next.js build output
 .next
+
+release
+.idea
+.vscode
+binary
+bin
+lib/*.js
+tests/index.js
+index.js
+*.js
+*.d.ts
