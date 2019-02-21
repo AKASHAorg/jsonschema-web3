@@ -1,7 +1,7 @@
-import {Validator} from 'jsonschema';
-import {multihash} from 'is-ipfs';
-import {Buffer} from 'safe-buffer';
-import {isValidAddress, isValidChecksumAddress} from 'ethereumjs-util';
+import { Validator } from 'jsonschema';
+import { multihash } from 'is-ipfs';
+import { Buffer } from 'safe-buffer';
+import { isValidAddress, isValidChecksumAddress } from 'ethereumjs-util';
 
 // ethereum address validation
 Validator.prototype.customFormats['address'] = function (input) {
