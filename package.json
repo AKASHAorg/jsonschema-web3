@@ -1,6 +1,6 @@
 {
   "name": "@akashaproject/jsonschema-web3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extended jsonschema with ethereum address, ipfs multihash and buffer format",
   "main": "index.js",
   "types": "index.d.ts",
